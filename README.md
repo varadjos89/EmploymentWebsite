@@ -8,7 +8,7 @@
 
 ## Technology Stack
 
-Back-end : Spring MVC, Hibernate
+Back-end : Spring MVC, Hibernate<br />
 Front-end : JavaScript, HTML, CSS
 
 ## Steps to run the project
